@@ -78,8 +78,10 @@ app.get("/lyrics", async (req, res) => {
     optimizeQuery: true,
   };
   getLyrics(options).then((lyrics) => {
-    const errMessage = "No lyrics found";
-    if (!lyrics) res.json({ errMessage });
+    const errMessage = "No lyrics found 😕";
+    if (!lyrics) {
+      lyrics = errMessage;
+    }
     res.json({ lyrics });
   });
   /* GENIUS API V2 */
