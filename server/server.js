@@ -1,5 +1,6 @@
 require("dotenv").config();
 const express = require("express");
+const port = 3001;
 const cors = require("cors");
 const { getLyrics } = require("genius-lyrics-api");
 const ACCESS_TOKEN = process.env.GENIUS_ACCESS_TOKEN;
@@ -57,20 +58,6 @@ app.post("/login", (req, res) => {
 });
 
 app.get("/lyrics", async (req, res) => {
-  /* LYRICS FROM GOOGLE */
-  // const lyrics =
-  //   (await lyricsFinder(req.query.artist, req.query.track)) ||
-  //   "No Lyrics Found";
-  /* LYRICS FROM GOOGLE */
-
-  /* GENIUS API */
-  // const result = await client.fetch(req.query.track, req.query.artist);
-  // const lyrics = result.lyrics;
-  // console.log(result);
-  /* GENIUS API */
-
-  /* GENIUS API V2 */
-
   const options = {
     apiKey: ACCESS_TOKEN,
     title: req.query.track,
@@ -84,8 +71,8 @@ app.get("/lyrics", async (req, res) => {
     }
     res.json({ lyrics });
   });
-  /* GENIUS API V2 */
-  // res.json({ lyrics });
 });
 
-app.listen(3001);
+app.listen(port, () => {
+  console.log(`Server running at http://localhost:${port}`);
+});
