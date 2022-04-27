@@ -32,12 +32,11 @@ After successful installation:
 
 **Desktop**
 
-<img src="https://img001.prntscr.com/file/img001/IomfBA9TR6GTAVgaKTse1w.png" alt="BurgerBuilder_Desktop" width="50%"> <img src="https://img001.prntscr.com/file/img001/GGs0a-_iQ6OvR-ha3aiexA.png" alt="BurgerBuilder_Desktop" width="50%">
-<img src="https://img001.prntscr.com/file/img001/etXeSFQvSJaj7kMcFmso8Q.png" alt="BurgerBuilder_Desktop" width="50%">
+<img src="IMAGE_LINK" alt="SpotifClone_Desktop" width="50%">
 
 **Mobile**
 
-<img src="https://img001.prntscr.com/file/img001/Z_kYCBB2Sp2M2wiXMBYV2Q.png" alt="BurgerBuilder_Mobile" width="25%"> <img src="https://img001.prntscr.com/file/img001/9bX923kmRomnDxX_UHeR6Q.png" alt="BurgerBuilder_Mobile" width="25%"> <img src="https://img001.prntscr.com/file/img001/3oEFZa7tT0CYdlAJjmSOQA.png" alt="BurgerBuilder_Mobile" width="25%">
+<img src="IMAGE_LINK" width="25%" alt="SpotifyClone_Mobile">
 
 ## Inspiration
 
