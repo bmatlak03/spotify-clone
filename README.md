@@ -20,11 +20,13 @@ After successful installation:
 
 ## Tech stack
 
+**Front-end**
+
 <a href="https://reactjs.org/" title="React"><img src="https://github.com/get-icon/geticon/raw/master/icons/react.svg" alt="React" width="50px" height="50px"></a>  <a href="https://developer.mozilla.org/pl/docs/Web/JavaScript" title="Javascript"><img src="https://github.com/get-icon/geticon/blob/master/icons/javascript.svg" alt="Javascript" width="50px" height="50px"></a>  <a href="https://developer.mozilla.org/pl/docs/Web/CSS" title="CSS"><img src="https://github.com/get-icon/geticon/blob/master/icons/css-3.svg" alt="CSS" width="50px" height="50px"></a> 
 
 
 
-**Backend**
+**Back-end**
 <a href="https://nodejs.org" title="NodeJS"><img src="https://github.com/get-icon/geticon/blob/master/icons/nodejs.svg" alt="NodeJS" width="50px" height="50px"></a> <a href="https://expressjs.com/" title="NodeJS"><img src="https://github.com/get-icon/geticon/blob/master/icons/express.svg" alt="ExpressJS" width="50px" height="50px"></a>
 
 
