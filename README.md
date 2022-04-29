@@ -3,6 +3,17 @@
 Spotify clone with lyrics fetched from [Genius](https://genius.com/)
 
 Created to practice, refresh and consolidate knowledge of React
+<details>
+ <summary><b>What I have learned by making this project:</b></summary>
+<br>
+ 
+What I have learned:
+ - How Front-end communicates with Back-end
+ - Consolidate React knowledge
+ - Consolidate how to create React Hooks
+ - How to get data from other API
+ - Differences between Client side and Server side
+</details>
 
 ## Instalation
 
